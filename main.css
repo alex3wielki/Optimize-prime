@@ -1,0 +1,21 @@
+html,
+body,
+.hero-image-background,
+header,
+.image {
+    height: 100%;
+}
+
+html,
+body,
+.hero-image-background,
+header {
+    width: 100%;
+}
+
+.hero-image-background {
+    background: url("./bg-2.jpg");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
